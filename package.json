@@ -1,0 +1,12 @@
+{
+	"id": "mightytext",
+	"name": "MightyText",
+	"version": "1.0.0",
+	"description": "MightyText",
+	"main": "index.js",
+	"author": "Austin Tsao",
+	"license": "MIT",
+	"config": {
+		"serviceURL": "https://mightytext.net/web8/"
+	}
+}
